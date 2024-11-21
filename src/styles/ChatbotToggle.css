@@ -1,0 +1,28 @@
+.chatbot-toggle {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+}
+
+.toggle-button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 70%;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.toggle-button:hover {
+    background-color: #45a049;
+}
+.msg{
+    font-size: 30px;
+    justify-content: center;
+    align-self: center;
+}
+.cancel{
+    font-size: 25px;
+}
